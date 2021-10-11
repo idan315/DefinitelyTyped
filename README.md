@@ -1,3 +1,5 @@
+(Merged into the main project and archived)
+
 # Definitely Typed
 
 > The repository for *high quality* TypeScript type definitions.
